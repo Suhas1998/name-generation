@@ -6,7 +6,7 @@ from enum import Enum, auto
 
 class Name:
     class NameOrder(Enum):
-        Easter = auto()
+        Eastern = auto()
         Forename_Only = auto()
         Surname_Only = auto()
         Western = auto()
